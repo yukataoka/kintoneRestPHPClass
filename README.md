@@ -5,7 +5,7 @@ This PHP class simplifies kintone API programming. (Under the present creation)
 
 ##Sample
 
-'php:sampl.php
+'php:sampl.php'
 
 <?php
  
