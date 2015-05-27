@@ -5,7 +5,7 @@ This PHP class simplifies kintone API programming. (Under the present creation)
 
 ##Sample
 
-'''php:sampl.php
+'php:sampl.php
 
 <?php
  
@@ -80,4 +80,4 @@ if($kintone->getRecodes($query, $limit, $offset)){
  <img src="images/a.png" alt="A"/> <?php echo $value['回答内容']['value']; ?>（<?php echo $value['更新日時']['value']; ?>）
  </dd>
 
-'''
+'
