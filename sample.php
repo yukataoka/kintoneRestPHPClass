@@ -3,8 +3,8 @@
  require_once('./kintone.php');
  
 $kintone_subdomain  = "<- kintone your subdomain ->";
-$kintone_app_id  = <- kintone your apprication id ->;
-$kintone_app_token  = <- kintone your apprication token ->;
+$kintone_app_id  = "<- kintone your apprication id ->";
+$kintone_app_token  = "<- kintone your apprication token ->";
 
 $limit  = 15;
 $offset = 0;
